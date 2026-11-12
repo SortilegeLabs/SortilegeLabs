@@ -9,7 +9,6 @@
 <br>
 
 <a href="https://www.linkedin.com/in/thibault-steinmetz/"><img src="https://img.shields.io/badge/LinkedIn-thibault--steinmetz-9D7BFF?style=flat-square&labelColor=12131C&logo=linkedin&logoColor=EDE6D6" alt="LinkedIn"></a>
-<a href="https://kaggle.com/tabs3034"><img src="https://img.shields.io/badge/Kaggle-tabs3034-9D7BFF?style=flat-square&labelColor=12131C&logo=kaggle&logoColor=EDE6D6" alt="Kaggle"></a>
 <img src="https://komarev.com/ghpvc/?username=SortilegeLabs&label=views&color=9D7BFF&style=flat-square" alt="Profile views">
 
 </div>
